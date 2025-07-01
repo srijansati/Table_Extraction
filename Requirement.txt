@@ -1,0 +1,8 @@
+pandas
+numpy
+pdf2image
+transformers
+pytesseract
+torch
+opencv-python
+pillow
